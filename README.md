@@ -10,26 +10,9 @@
 [![Accounts](https://img.shields.io/badge/Accounts-account.zpria.tech-60efff?style=for-the-badge&labelColor=0a0a1e)](https://account.zpria.tech)
 [![License](https://img.shields.io/badge/License-MIT-00ff87?style=for-the-badge&labelColor=0a0a1e)](LICENSE)
 
-[Copyright and Trademark](#copyright-and-trademark) · [About](#about-zpria) · [Vision](#vision) · [Projects](#projects) · [Tech Stack](#tech-stack) · [Legal](#legal) · [Connect](#connect)
+[About](#about-zpria) · [Vision](#vision) · [Projects](#projects) · [Tech Stack](#tech-stack) · [Legal](#legal) · [Connect](#connect) · [Copyright](#copyright-and-trademark)
 
 </div>
-
----
-
-## Copyright and Trademark
-
-**Copyright**
-
-© 2024 ZPRIA. All rights reserved.
-This repository and all its contents are the intellectual property of **ZPRIA**, founded by **Iftekhar Ibna Sifat**.
-**First Published:** May 24, 2024 · **Copyright Owner:** ZPRIA
-
-**Trademark**
-
-**ZPRIA™** is a trademark of ZPRIA. The ZPRIA name, logo, brand identity and all related marks were conceived and first used by **Iftekhar Ibna Sifat** on **May 24, 2024**.
-**Trademark status:** ZPRIA™ (pending registration)
-
-Any unauthorized use of the ZPRIA™ brand, name, logo, or related intellectual property is prohibited and subject to legal action.
 
 ---
 
@@ -127,30 +110,6 @@ To become a leading AI company that:
 
 </details>
 
-### Customized Open-Source Projects
-
-Open-source projects customized and deployed by ZPRIA. Credit for the original work belongs to their authors.
-
-<details>
-<summary><b>See more &nbsp;·&nbsp; 12 customized projects</b></summary>
-
-<br/>
-
-- **bolt.diy**: AI-powered full-stack app builder
-- **ZFREEAI**: Free AI chat platform connecting multiple AI providers
-- **Chatbot**: AI chatbot application built on Next.js
-- **Tersa AI Workflow Canvas**: Visual canvas for designing and running AI workflows
-- **Admin Dashboard**: Next.js and shadcn/ui dashboard for data and analytics
-- **E-commerce Crystalize Remix**: E-commerce storefront built on Remix
-- **Plasmic Split Content Starter Kit**: Content site starter with visual editing
-- **ScrewFast**: Business website built on Astro
-- **Odyssey**: Astro-based website with a travel-style design
-- **OneLink**: Link-in-bio page
-- **tldraw Whiteboard** *(in progress)*: Collaborative whiteboard
-- **Auth0 SaaS Starter** *(in progress)*: SaaS starter with Auth0 authentication
-
-</details>
-
 ### Private Projects
 
 ![Status](https://img.shields.io/badge/status-locked-374151?style=flat-square&labelColor=0d1117)
@@ -203,7 +162,7 @@ Open-source projects customized and deployed by ZPRIA. Credit for the original w
 
 ## Legal
 
-> Copyright and trademark notices are at the top of this page.
+> Copyright and trademark notices are at the end of this page.
 
 ### License
 
@@ -266,3 +225,20 @@ npm run dev
 **Last Updated:** October 29, 2026
 
 </div>
+
+---
+
+## Copyright and Trademark
+
+**Copyright**
+
+© 2024 ZPRIA. All rights reserved.
+This repository and all its contents are the intellectual property of **ZPRIA**, founded by **Iftekhar Ibna Sifat**.
+**First Published:** May 24, 2024 · **Copyright Owner:** ZPRIA
+
+**Trademark**
+
+**ZPRIA™** is a trademark of ZPRIA. The ZPRIA name, logo, brand identity and all related marks were conceived and first used by **Iftekhar Ibna Sifat** on **May 24, 2024**.
+**Trademark status:** ZPRIA™ (pending registration)
+
+Any unauthorized use of the ZPRIA™ brand, name, logo, or related intellectual property is prohibited and subject to legal action.
