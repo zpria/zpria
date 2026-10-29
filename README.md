@@ -2,7 +2,7 @@
 
 <img src="./zpria.svg" width="220" alt="ZPRIA logo"/>
 
-# ZPRIA™
+# ZPRIA
 
 **From Z to A, everything you need, private by design.**
 
@@ -10,11 +10,26 @@
 [![Accounts](https://img.shields.io/badge/Accounts-account.zpria.tech-60efff?style=for-the-badge&labelColor=0a0a1e)](https://account.zpria.tech)
 [![License](https://img.shields.io/badge/License-MIT-00ff87?style=for-the-badge&labelColor=0a0a1e)](LICENSE)
 
-**© 2024 ZPRIA. ZPRIA™ is a trademark of ZPRIA. All rights reserved.**
-
-[About](#about-zpria) · [Vision](#vision) · [Projects](#projects) · [Tech Stack](#tech-stack) · [Legal](#legal) · [Connect](#connect)
+[Copyright and Trademark](#copyright-and-trademark) · [About](#about-zpria) · [Vision](#vision) · [Projects](#projects) · [Tech Stack](#tech-stack) · [Legal](#legal) · [Connect](#connect)
 
 </div>
+
+---
+
+## Copyright and Trademark
+
+**Copyright**
+
+© 2024 ZPRIA. All rights reserved.
+This repository and all its contents are the intellectual property of **ZPRIA**, founded by **Iftekhar Ibna Sifat**.
+**First Published:** May 24, 2024 · **Copyright Owner:** ZPRIA
+
+**Trademark**
+
+**ZPRIA™** is a trademark of ZPRIA. The ZPRIA name, logo, brand identity and all related marks were conceived and first used by **Iftekhar Ibna Sifat** on **May 24, 2024**.
+**Trademark status:** ZPRIA™ (pending registration)
+
+Any unauthorized use of the ZPRIA™ brand, name, logo, or related intellectual property is prohibited and subject to legal action.
 
 ---
 
@@ -188,22 +203,7 @@ Open-source projects customized and deployed by ZPRIA. Credit for the original w
 
 ## Legal
 
-### Copyright Notice
-
-**© 2024 ZPRIA. All rights reserved.**
-
-This repository and all its contents are the intellectual property of **ZPRIA**, founded by **Iftekhar Ibna Sifat**.
-
-**First Published:** May 24, 2024
-**Copyright Owner:** ZPRIA
-
-### Trademark and Brand Protection
-
-**ZPRIA™** is a trademark of ZPRIA. The **ZPRIA name, logo, brand identity and all related marks** were conceived and first used by **Iftekhar Ibna Sifat** on **May 24, 2024**. This repository serves as timestamp proof of original creation and ownership.
-
-**Trademark:** ZPRIA™ (pending registration)
-
-Any unauthorized use of the **ZPRIA™** brand, name, logo, or related intellectual property is prohibited and subject to legal action.
+> Copyright and trademark notices are at the top of this page.
 
 ### License
 
@@ -211,9 +211,17 @@ This project is licensed under the MIT License, see the [LICENSE](LICENSE) file 
 
 **Note:** While the code is open source under the MIT License, the **ZPRIA™ brand, name, logo, and trademark** remain the exclusive property of **ZPRIA** and its founder. The MIT License does **not** grant any right to use the ZPRIA™ name or brand.
 
+### Terms of Service
+
+<!-- To be added -->
+
+### Privacy Policy
+
+<!-- To be added -->
+
 ### Laws and Policies
 
-<!-- Legal policies, terms and applicable laws will be added here. -->
+<!-- To be added -->
 
 ---
 
@@ -254,8 +262,6 @@ npm run dev
 <div align="center">
 
 **Built with ❤️ in Bangladesh**
-
-© 2024 ZPRIA™. All rights reserved.
 
 **Last Updated:** October 29, 2026
 
