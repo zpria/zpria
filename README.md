@@ -1,180 +1,184 @@
-# ZPRIA
-
 <div align="center">
 
-![ZPRIA Logo](https://via.placeholder.com/150x150/00ff87/0a0a1e?text=ZPRIA)
+<img src="./zpria.svg" width="220" alt="ZPRIA logo"/>
 
-**Z to A Privacy Platform**
+# ZPRIA™
 
-*AI-powered solutions for everyone*
+**From Z to A, everything you need, private by design.**
 
-[![Website](https://img.shields.io/badge/Website-zpria.vercel.app-00ff87?style=for-the-badge)](https://zpria.vercel.app)
-[![Status](https://img.shields.io/badge/Status-In%20Development-60efff?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-00ff87?style=for-the-badge)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-zpria.tech-00ff87?style=for-the-badge&labelColor=0a0a1e)](https://zpria.tech)
+[![Accounts](https://img.shields.io/badge/Accounts-account.zpria.tech-60efff?style=for-the-badge&labelColor=0a0a1e)](https://account.zpria.tech)
+[![License](https://img.shields.io/badge/License-MIT-00ff87?style=for-the-badge&labelColor=0a0a1e)](LICENSE)
+
+**© 2024 ZPRIA. ZPRIA™ is a trademark of ZPRIA. All rights reserved.**
+
+[About](#about-zpria) · [Vision](#vision) · [Projects](#projects) · [Tech Stack](#tech-stack) · [Legal](#legal) · [Connect](#connect)
 
 </div>
 
 ---
 
-## 🚀 About ZPRIA
+## About ZPRIA
 
-**ZPRIA** (pronounced "Zephria") is an AI-powered privacy-first platform designed to provide comprehensive solutions from **Z to A** - covering every aspect of digital privacy and AI assistance.
+**ZPRIA** (pronounced "Zephria") is a software company from Bangladesh, building AI-powered, privacy-first products that cover everything from **Z to A**.
 
-### Name Meaning
-- **Z to A**: Complete, comprehensive (reverse of A to Z)
-- **PRI**: Privacy at the core
-- **A**: AI-powered excellence
+ZPRIA builds real websites, web apps, online stores, AI tools and automation, taking each product from idea to live deployment.
 
----
+### What the Name Means
 
-## 🎯 Vision
+| Part | Meaning |
+|------|---------|
+| **Z → A** | Complete and comprehensive: every product, from the first to the last |
+| **PRI** | **Privacy**, at the core of everything we build |
+| **PR** | **Products**, the full range of what we make |
 
-To become a leading AI company competing with Google, Microsoft, OpenAI, and Anthropic by:
-- Building privacy-first AI solutions
-- Empowering users with complete control over their data
-- Democratizing AI technology for everyone
-- Achieving ৳200 crore valuation within 2 years
+So **ZPRIA** stands for **Z to A Privacy** and **Z to A Products**.
 
 ---
 
-## 📅 Timeline
+## Vision
 
-**Founded:** January 25, 2025  
-**Founder:** Iftekhar Ibna Sifat  
-**Location:** Dhaka, Bangladesh  
-**Challenge:** Building from ৳0 to ৳200 crore in 2 years
-
----
-
-## 🛠️ Tech Stack
-
-### Current
-- **Frontend:** Next.js, React, Tailwind CSS
-- **Backend:** Supabase (PostgreSQL)
-- **AI:** Groq API, Anthropic Claude
-- **Hosting:** Vercel
-- **Authentication:** Supabase Auth
-
-### Planned
-- Custom AI models
-- Edge computing
-- Distributed architecture
-- End-to-end encryption
+To become a leading AI company that:
+- Builds privacy-first AI solutions
+- Gives users complete control over their data
+- Makes AI technology accessible to everyone
 
 ---
 
-## 🎨 Products
+## Timeline
 
-### Phase 1 (Current)
-1. **StudyMate AI** - AI study assistant for students
-2. **Authentication Platform** - Privacy-first auth system
-
-### Phase 2 (Q2 2025)
-1. **ZPRIA Chat** - Privacy-focused AI chat
-2. **Business Tools** - AI solutions for SMBs
-
-### Phase 3 (Q3-Q4 2025)
-1. **ZPRIA Cloud** - Private cloud storage
-2. **Developer API** - AI API for developers
+| | |
+|---|---|
+| **Founded** | May 24, 2024 |
+| **Founder** | Iftekhar Ibna Sifat |
+| **Location** | Dhaka, Bangladesh |
+| **Last updated** | October 29, 2026 |
 
 ---
 
-## 📊 Roadmap
+## Projects
 
-### Month 1-3: Foundation
-- [x] Company naming and branding
-- [x] Social media presence (@zpria)
-- [ ] First product launch (StudyMate AI)
-- [ ] First 1,000 users
-- [ ] Domain acquisition (zpria.com)
+> All links currently point to the main site and will be updated with each product's own address.
 
-### Month 4-6: Growth
-- [ ] 10,000 users
-- [ ] Revenue generation
-- [ ] Team expansion
-- [ ] Mobile app launch
+[**01 &nbsp; ZPRIA ↗**](https://zpria.tech)
+> The main ZPRIA website, with a 3D hero section and scroll-based animations.
 
-### Month 7-12: Scale
-- [ ] 100,000 users
-- [ ] Series A funding
-- [ ] International expansion
-- [ ] Custom AI model development
+[**02 &nbsp; ZPRIA Accounts ↗**](https://account.zpria.tech)
+> A central account system for signing in across ZPRIA products.
 
-### Year 2: Dominance
-- [ ] 1M+ users
-- [ ] ৳200 crore valuation
-- [ ] Multiple product lines
-- [ ] Industry recognition
+[**03 &nbsp; ZPRIA AI ↗**](https://zpria.tech)
+> The AI chat system for ZPRIA.
+
+<details>
+<summary><b>See more &nbsp;·&nbsp; all ZPRIA projects</b></summary>
+
+<br/>
+
+**Platform**
+
+[**ZPRIA Main ↗**](https://zpria.tech): The main company platform bringing ZPRIA products together.
+
+[**ZPRIA Auth ↗**](https://zpria.tech): The authentication system with email verification and OTP.
+
+[**ZPRIA Auth v2 ↗**](https://zpria.tech): The next version of the ZPRIA authentication system.
+
+[**ZPRIA Game ↗**](https://zpria.tech): The games section of ZPRIA.
+
+**Products**
+
+[**AZQIN ↗**](https://zpria.tech): A full e-commerce store with products, cart, checkout and admin management.
+
+[**VoiceTypeZ ↗**](https://zpria.tech): A multilingual speech-to-text web app supporting 23 languages, with SEO built in for each one.
+
+[**BD Services ↗**](https://zpria.tech): A services platform built for the Bangladesh market.
+
+[**AiSolveZ ↗**](https://zpria.tech): An AI-powered assistant for solving problems and answering questions quickly.
+
+[**AI Documentify ↗**](https://zpria.tech): An AI tool that helps create and organize documents from simple input.
+
+[**SafeTube ↗**](https://zpria.tech): A cleaner, safer way to watch video content.
+
+[**AZ Free Book ↗**](https://zpria.tech): A free online library for reading and discovering books.
+
+[**ApZAPI ↗**](https://zpria.tech): An API-focused project for testing and connecting services.
+
+[**Softmax ↗**](https://zpria.tech): A modern company website with a clean, fast design.
+
+[**AUREX Leather ↗**](https://zpria.tech): A brand website for a premium leather products business.
+
+[**AI Meal Board ↗**](https://zpria.tech): An AI meal planner for meals and weekly food plans.
+
+[**StrikeHell ↗**](https://zpria.tech): An interactive web game.
+
+</details>
+
+### Customized Open-Source Projects
+
+Open-source projects customized and deployed by ZPRIA. Credit for the original work belongs to their authors.
+
+<details>
+<summary><b>See more &nbsp;·&nbsp; 12 customized projects</b></summary>
+
+<br/>
+
+- **bolt.diy**: AI-powered full-stack app builder
+- **ZFREEAI**: Free AI chat platform connecting multiple AI providers
+- **Chatbot**: AI chatbot application built on Next.js
+- **Tersa AI Workflow Canvas**: Visual canvas for designing and running AI workflows
+- **Admin Dashboard**: Next.js and shadcn/ui dashboard for data and analytics
+- **E-commerce Crystalize Remix**: E-commerce storefront built on Remix
+- **Plasmic Split Content Starter Kit**: Content site starter with visual editing
+- **ScrewFast**: Business website built on Astro
+- **Odyssey**: Astro-based website with a travel-style design
+- **OneLink**: Link-in-bio page
+- **tldraw Whiteboard** *(in progress)*: Collaborative whiteboard
+- **Auth0 SaaS Starter** *(in progress)*: SaaS starter with Auth0 authentication
+
+</details>
+
+### Private Projects
+
+![Status](https://img.shields.io/badge/status-locked-374151?style=flat-square&labelColor=0d1117)
+&nbsp;<sub>20 projects in development. Names and details are hidden, and each will be published after launch.</sub>
+
+<details>
+<summary><b>See more &nbsp;·&nbsp; private projects</b></summary>
+
+<br/>
+
+| Type | Count | Status |
+|------|:-----:|--------|
+| Website | 6 | Locked until launch |
+| Application | 4 | Locked until launch |
+| Browser Extension | 3 | Locked until launch |
+| Windows App | 3 | Locked until launch |
+| File Management System | 2 | Locked until launch |
+| Books | 2 | Locked until launch |
+
+</details>
 
 ---
 
-## 🌐 Online Presence
+## Tech Stack
 
-- **Website:** [zpria.vercel.app](https://zpria.vercel.app) (launching soon)
-- **Twitter:** [@zpria](https://twitter.com/zpria)
-- **Instagram:** [@zpria](https://instagram.com/zpria)
-- **LinkedIn:** [ZPRIA](https://linkedin.com/company/zpria)
-- **GitHub:** [@zpria](https://github.com/zpria)
+- **Frontend:** React, TypeScript, Vite, Next.js, Tailwind CSS
+- **Backend and data:** Node.js, Express, Supabase (PostgreSQL), Firebase
+- **AI:** Gemini, OpenAI, Claude
+- **Hosting:** Vercel, Google Cloud
+- **Authentication:** Supabase Auth, ZPRIA Accounts
 
----
+<div align="center">
 
-## 📧 Contact
+<img src="https://skillicons.dev/icons?i=react,ts,vite,nextjs,nodejs,express,supabase,firebase,vercel,gcp&theme=dark" alt="Tech stack"/>
 
-**Official Email:** team@zpria.com  
-**Support:** support@zpria.com  
-**Business:** contact@zpria.com
+</div>
 
 ---
 
-## ⚖️ Legal
-
-### Copyright Notice
-© 2025 ZPRIA. All rights reserved.
-
-This repository and all its contents are the intellectual property of ZPRIA, founded by Iftekhar Ibna Sifat.
-
-**First Published:** January 25, 2025  
-**Repository Created:** January 25, 2025  
-**Trademark:** ZPRIA™ (pending registration)
-
-### Brand Protection
-The ZPRIA name, logo, and brand identity were conceived and first used by Iftekhar Ibna Sifat on January 25, 2025. This repository serves as timestamp proof of original creation and ownership.
-
-Any unauthorized use of the ZPRIA brand, name, or related intellectual property is prohibited and subject to legal action.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**Note:** While the code is open source under MIT License, the ZPRIA brand, name, logo, and trademark remain the exclusive property of the founder.
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please read our contributing guidelines before submitting PRs.
-
-### Development Setup
-```bash
-# Clone the repository
-git clone https://github.com/zpria/zpria.git
-
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-```
-
----
-
-## 🎯 Mission Statement
+## Mission
 
 **"From Z to A, we protect your privacy while empowering you with AI."**
 
-We believe that:
 - Privacy is a fundamental right
 - AI should serve humanity, not exploit it
 - Technology should be accessible to everyone
@@ -182,43 +186,68 @@ We believe that:
 
 ---
 
-## 📈 Metrics
+## Legal
 
-**Current Status:**
-- Users: 0 (launching soon)
-- Products: 2 in development
-- Team: 1 (founder)
-- Funding: Bootstrapped (₹0 investment)
+### Copyright Notice
 
-**Target (24 months):**
-- Users: 1,000,000+
-- Revenue: ₹20+ crore/year
-- Valuation: ₹200+ crore
-- Team: 50+ members
+**© 2024 ZPRIA. All rights reserved.**
 
----
+This repository and all its contents are the intellectual property of **ZPRIA**, founded by **Iftekhar Ibna Sifat**.
 
-## 🌟 Inspiration
+**First Published:** May 24, 2024
+**Copyright Owner:** ZPRIA
 
-Built with inspiration from:
-- Google's mission to organize information
-- Apple's focus on privacy
-- Anthropic's AI safety principles
-- Bangladesh's entrepreneurial spirit
+### Trademark and Brand Protection
 
----
+**ZPRIA™** is a trademark of ZPRIA. The **ZPRIA name, logo, brand identity and all related marks** were conceived and first used by **Iftekhar Ibna Sifat** on **May 24, 2024**. This repository serves as timestamp proof of original creation and ownership.
 
-## 📞 For Investors
+**Trademark:** ZPRIA™ (pending registration)
 
-Interested in joining our journey? Contact us at:
-- **Email:** founder@zpria.com
-- **Deck:** Available upon request
+Any unauthorized use of the **ZPRIA™** brand, name, logo, or related intellectual property is prohibited and subject to legal action.
+
+### License
+
+This project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
+
+**Note:** While the code is open source under the MIT License, the **ZPRIA™ brand, name, logo, and trademark** remain the exclusive property of **ZPRIA** and its founder. The MIT License does **not** grant any right to use the ZPRIA™ name or brand.
+
+### Laws and Policies
+
+<!-- Legal policies, terms and applicable laws will be added here. -->
 
 ---
 
-## ⚠️ Disclaimer
+## Contributing
 
-ZPRIA is currently in active development. Features, products, and timelines are subject to change. This README serves as our public commitment and vision document.
+Contributions are welcome. Please read the contributing guidelines before submitting a pull request.
+
+```bash
+git clone https://github.com/zpria/zpria.git
+cd zpria
+npm install
+npm run dev
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+**Interested in investing, collaborating or working with ZPRIA?**
+
+[![Connect with ZPRIA](https://img.shields.io/badge/Connect-info%40zpria.tech-00ff87?style=for-the-badge&logo=gmail&logoColor=0a0a1e&labelColor=0a0a1e)](mailto:info@zpria.tech)
+[![Connect with Founder](https://img.shields.io/badge/Connect%20with-Founder-60efff?style=for-the-badge&logo=gmail&logoColor=0a0a1e&labelColor=0a0a1e)](mailto:iftekharibnasifat@gmail.com)
+
+**Very urgent? Call directly:**
+
+[![Emergency](https://img.shields.io/badge/%F0%9F%9A%A8%20EMERGENCY-%2B8801345408955-dc2626?style=for-the-badge&labelColor=7f1d1d)](tel:+8801345408955)
+
+**GitHub:** [zpria](https://github.com/zpria) · [iftekharibnasifat](https://github.com/iftekharibnasifat)
+
+[↑ Back to top](#)
+
+</div>
 
 ---
 
@@ -226,32 +255,8 @@ ZPRIA is currently in active development. Features, products, and timelines are 
 
 **Built with ❤️ in Bangladesh**
 
-*Competing with giants, starting from zero*
+© 2024 ZPRIA™. All rights reserved.
 
----
-
-⭐ **Star this repository to follow our journey!** ⭐
+**Last Updated:** October 29, 2026
 
 </div>
-
----
-
-## 📝 Changelog
-
-### [Unreleased]
-- Initial repository setup
-- Brand identity established
-- Social media presence created
-- Development environment configured
-
-### [0.1.0] - 2025-01-25
-- Repository created
-- README documentation
-- License added
-- Project structure initialized
-
----
-
-**Last Updated:** January 25, 2025  
-**Version:** 0.1.0  
-**Status:** 🚧 Under Active Development
