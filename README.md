@@ -6,11 +6,13 @@
 
 **From Z to A, everything you need, private by design.**
 
+*A vision by [Iftekhar Ibna Sifat](https://github.com/iftekharibnasifat), Founder & CEO*
+
 [![Website](https://img.shields.io/badge/Website-zpria.tech-00ff87?style=for-the-badge&labelColor=0a0a1e)](https://zpria.tech)
 [![Accounts](https://img.shields.io/badge/Accounts-account.zpria.tech-60efff?style=for-the-badge&labelColor=0a0a1e)](https://account.zpria.tech)
 [![License](https://img.shields.io/badge/License-MIT-00ff87?style=for-the-badge&labelColor=0a0a1e)](LICENSE)
 
-[About](#about-zpria) · [Vision](#vision) · [Projects](#projects) · [Tech Stack](#tech-stack) · [Legal](#legal) · [Connect](#connect) · [Copyright](#copyright-and-trademark)
+[About](#about-zpria) · [Founder](#founder) · [Vision](#vision) · [Projects](#projects) · [Tech Stack](#tech-stack) · [Legal](#legal) · [Connect](#connect) · [Copyright](#copyright-and-trademark)
 
 </div>
 
@@ -18,7 +20,7 @@
 
 ## About ZPRIA
 
-**ZPRIA** (pronounced "Zephria") is a software company from Bangladesh, building AI-powered, privacy-first products that cover everything from **Z to A**.
+**ZPRIA** (pronounced "Zephria") is a software company from Bangladesh, building AI-powered, privacy-first products that cover everything from **Z to A**. ZPRIA was founded and is led by **Iftekhar Ibna Sifat**.
 
 ZPRIA builds real websites, web apps, online stores, AI tools and automation, taking each product from idea to live deployment.
 
@@ -34,9 +36,24 @@ So **ZPRIA** stands for **Z to A Privacy** and **Z to A Products**.
 
 ---
 
+## Founder
+
+### Iftekhar Ibna Sifat
+**Founder & CEO, ZPRIA**
+
+Iftekhar Ibna Sifat is a self-taught developer and entrepreneur from Bangladesh. He did not wait for a team, a budget or permission. He started ZPRIA on his own, and he builds, ships and leads it himself, as both its Founder and its CEO.
+
+Iftekhar's goal is simple: build a world-class technology brand from Bangladesh, and prove that great products can come from anywhere.
+
+> **Founder.** Builds the product.
+> **CEO.** Owns the vision and the result.
+> **Iftekhar Ibna Sifat.** Is both.
+
+---
+
 ## Vision
 
-To become a leading AI company that:
+Iftekhar Ibna Sifat's vision for ZPRIA is to become a leading AI company that:
 - Builds privacy-first AI solutions
 - Gives users complete control over their data
 - Makes AI technology accessible to everyone
@@ -48,7 +65,7 @@ To become a leading AI company that:
 | | |
 |---|---|
 | **Founded** | May 24, 2024 |
-| **Founder** | Iftekhar Ibna Sifat |
+| **Founder & CEO** | Iftekhar Ibna Sifat |
 | **Location** | Dhaka, Bangladesh |
 | **Last updated** | October 29, 2026 |
 
@@ -158,6 +175,14 @@ To become a leading AI company that:
 - Technology should be accessible to everyone
 - Innovation thrives in transparency
 
+### Our Principles
+
+- **Build real.** Every ZPRIA product is live, usable and shipped, never just an idea.
+- **Privacy first.** Trust is earned by design, not by promises.
+- **Start small, think big.** Every great brand began with one person and one idea.
+- **Consistency beats talent.** Show up, ship, improve, repeat.
+- **Made in Bangladesh, built for the world.**
+
 ---
 
 ## Legal
@@ -201,10 +226,10 @@ npm run dev
 
 <div align="center">
 
-**Interested in investing, collaborating or working with ZPRIA?**
+**Interested in investing, collaborating or working with ZPRIA or Iftekhar Ibna Sifat?**
 
 [![Connect with ZPRIA](https://img.shields.io/badge/Connect-info%40zpria.tech-00ff87?style=for-the-badge&logo=gmail&logoColor=0a0a1e&labelColor=0a0a1e)](mailto:info@zpria.tech)
-[![Connect with Founder](https://img.shields.io/badge/Connect%20with-Founder-60efff?style=for-the-badge&logo=gmail&logoColor=0a0a1e&labelColor=0a0a1e)](mailto:iftekharibnasifat@gmail.com)
+[![Connect with Iftekhar Ibna Sifat](https://img.shields.io/badge/Connect%20with-Founder-60efff?style=for-the-badge&logo=gmail&logoColor=0a0a1e&labelColor=0a0a1e)](mailto:iftekharibnasifat@gmail.com)
 
 **Very urgent? Call directly:**
 
@@ -220,7 +245,15 @@ npm run dev
 
 <div align="center">
 
-**Built with ❤️ in Bangladesh**
+## *"Dream so big that people call you crazy.*
+## *Success is the proof that you were not."*
+
+**Iftekhar Ibna Sifat**
+Founder & CEO, ZPRIA
+
+<br/>
+
+**Built with ❤️ in Bangladesh by Iftekhar Ibna Sifat**
 
 **Last Updated:** October 29, 2026
 
